@@ -1,5 +1,1 @@
-git checkout -b SCRUM-14-random
-
-
-git checkout -b SCRUM-15-random-2git checkout -b SCRUM-15-random-2git checkout -b SCRUM-15-random-2
-git commit -m "SCRUM-15 <message>"git commit -m "SCRUM-15 <message>"git commit -m "SCRUM-15 <message>"git commit -m "SCRUM-15 <message>"
+Remember when it wasn t acceptable to be an anti-American in America? It s great to see at least one woman who is standing up with a few others on the board against these anti-Americans who can t be bothered with the pledge. Watch
